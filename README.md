@@ -1,6 +1,6 @@
 # Gluon_RNN
 
-This project uses Gluon package in Python to predict political parties of politicians by their language used in Twitter. The paper I authored with colleagues is also attached in this repository ![here.](https://github.com/yoonsunghong/Gluon_RNN/blob/master/Predicting%20Political%20Parties%20in%20Context%20of%20Twitter.pdf)
+This project uses Gluon package in Python to predict political parties of politicians by their language used in Twitter. The paper I authored with colleagues is also attached in this repository [here.](https://github.com/yoonsunghong/Gluon_RNN/blob/master/Predicting%20Political%20Parties%20in%20Context%20of%20Twitter.pdf)
 
 [BiRNN.ipynb](./BiRNN.ipynb) uses Bi-directional Recurrent Neural Network with a Dense(2) layer as the decoding layer to predict the political parties. This also uses pre-trained Twitter word embeddings from GloVe to be used in the RNN.
 
